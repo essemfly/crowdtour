@@ -54,6 +54,10 @@ router.get('/skincare', function(req, res, next) {
     res.render('skincare');
 });
 
+router.get('/apply', function(req, res, next) {
+    res.render('apply');
+});
+
 
 module.exports = router;
 
