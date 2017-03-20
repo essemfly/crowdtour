@@ -4500,7 +4500,7 @@ nav .inner-nav.mobile_nav.opened ul {
 /* Features tours */
 /*  */
 .features-tours-full-width .features-tours-wrap .features-tours-item {
-    width: 25%;
+    width: 33.33%;
     float: left;
 }
 
@@ -8492,7 +8492,7 @@ footer.footer {
 }
 
 footer.footer h4 {
-    color: #ffffff;
+    /*color: #ffffff;*/
     border-bottom: 2px solid #ffc107;
     display: inline-block;
     line-height: 1.6;
