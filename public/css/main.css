@@ -4500,7 +4500,7 @@ nav .inner-nav.mobile_nav.opened ul {
 /* Features tours */
 /*  */
 .features-tours-full-width .features-tours-wrap .features-tours-item {
-    width: 33.33%;
+    width: 50%;
     float: left;
 }
 
